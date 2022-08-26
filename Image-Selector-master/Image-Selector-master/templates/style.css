@@ -1,0 +1,33 @@
+body{
+    background-color:#F0EBE3;
+}
+.form{
+
+    padding: 0% 30% 0% 30%;
+    align-items: center;
+    justify-items: center;
+}
+.mb-3{
+    display: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5px;
+}
+.border{
+    border-radius: 10px;
+    background-color: #E4DCCF;
+    justify-items: center;
+}
+.btn{
+
+    width: min-content;
+    align-items: center;
+    background-color: #576F72;
+}
+.btn:hover{
+    background-color: #7D9D9C;
+}
+.bbtn{
+    padding-left: 40%;
+    padding-bottom: 1%;
+}
